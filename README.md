@@ -7,5 +7,5 @@
 
 
 ### Login Info
-email:  `sifat@gmail.com`
-pass:    `123456`
+* email:  `sifat@gmail.com`
+* pass:    `123456`
